@@ -1,0 +1,11 @@
+ 
+1.	The number of compulsory misses are mainly depending only on the block size.
+2.	Total number of misses in L1 cache is expected to be equal to total number of memory references in l2 cache. BUt it doesn;t seem to be the case , infact the former being less in practice probably due to writing of data
+3.	Conflict misses are more strongly decreasing with increase in associativity and in part due to increase in block/cache size
+4.	Miss rate is almost not affected by any increase in associativity after its value is 8
+5.	Lower cache size show greater variations with block-sizes and associativities.
+6.	On split cache, capacity misses for data are decreasing and for instructions it is increasing because instructions like load and store which modify/access memory are probably lower in the given files.
+7.	As l1 cache size increases, miss Rate decreases which is obvious since now more elements can be stored in cache and number of memory acceses become less
+8.	For larger block sizes, more the time taken for fetching data from the memory and hence miss penalty increases.
+9.	Higher associativity decreases the hit time (time taken to get the entry if it is present in the cache) since there will be more number of elements in the set to be searched.
+10.	Adding a L2 cache doesn;t apparanty affect the miss-rates, memory references etc. of L1 cache.

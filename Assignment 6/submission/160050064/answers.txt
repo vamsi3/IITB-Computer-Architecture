@@ -1,0 +1,20 @@
+--------------------------
+
+Part 1B
+
+Clock cycles for my code - 37 cycles
+Number of registers used - 5
+	- r1 register to get the address of array in memory
+	- f1-f4 registers to perform the overall addition
+
+--------------------------
+
+Part 2B
+
+Clock cycles for my code - 1190 cycles
+Number of registers used - 7
+	- r1,r2 registers for address of array in memory and r2=r1+4000 for knowing loop termination
+	- f1-f4 registers for similar purpose as above (I'm evaluating sum of 25 set of numbers per cycle)
+	- f5 register for storing overall sum across loops.
+
+--------------------------
