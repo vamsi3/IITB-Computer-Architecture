@@ -30,8 +30,3 @@ Follow the instructions below to get our project running on your local machine.
 ## Acknowledgements
 
 - **Institute of Applied Information Processing and Communications (IAIK), TU Graz** for their awesome [GitHub repository](https://github.com/IAIK/meltdown) on Meltdown from which our code is largely derived.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
