@@ -6,7 +6,7 @@ This repository contains all my submissions to assignments written during my stu
 
 ## Project
 
-The final project for the course was a <u>Proof-of-Concept of the Meltdown Security Vulnerability</u>. More details can be found in the [Final Project](Final%20Project) directory.
+The final project for the course was a **_Proof-of-Concept of the Meltdown Security Vulnerability_**. More details can be found in the [Final Project](Final%20Project) directory.
 
 ## Author
 
