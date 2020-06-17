@@ -2,7 +2,7 @@
 
 > This project demonstrates a proof-of-concept (PoC) for the Meltdown security vulnerability as described in the paper at https://meltdownattack.com/meltdown.pdf ([arXiv:1801.01207](https://arxiv.org/abs/1801.01207))
 
-You may want to check out the [report.pdf](/docs/report.pdf) file for more details on this project. It was made as the final project for CS 305/341 - **Computer Architecture & Lab** course in Autumn 2018 at Indian Institute of Technology (IIT) Bombay, India.
+You may want to check out the [report.pdf](docs/report.pdf) file for more details on this project. It was made as the final project for CS 305/341 - **Computer Architecture & Lab** course in Autumn 2018 at Indian Institute of Technology (IIT) Bombay, India.
 
 This repository is mostly derived from the ideas in Meltdown paper at [arXiv:1801.01207](https://arxiv.org/abs/1801.01207) by Moritz Lipp *et al.*
 
